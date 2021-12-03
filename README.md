@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GeoKotze
+- 👀 I’m interested in becoming a full stack developer
+- 🌱 I’m currently learning the MEVN Stack
+- 💞️ I’m looking to collaborate on any projects that i can add to my portfolio
