@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GeoKotze
-- 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning the MEVN Stack
+- 👀 I’m interested in working as a developer
+- 🌱 I’m currently learning PHP Laravel
 - 💞️ I’m looking to collaborate on any projects that i can add to my portfolio
